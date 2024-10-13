@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Rakhi Kumari</h1>
-<h3 align="center">I am a passionate and dedicated computer science undergraduate.</h3>
+<h3 align="center">I am a Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakhikumari01&label=Profile%20views&color=0e75b6&style=flat" alt="rakhikumari01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakhikumari01" alt="rakhikumari01" /></a> </p>
 
-- 🔭 I’m currently working on **Springboot,Backend**
+- 🔭 I’m currently working on **C#,Backend,Angular**
 
-- 💬 Ask me about **Java,Springboot**
+- 💬 Ask me about **.Net,Angular**
 
 - 📫 How to reach me **rakhikumari6602@gmail.com**
 
