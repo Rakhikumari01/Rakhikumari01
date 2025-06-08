@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakhikumari01" alt="rakhikumari01" /></a> </p>
 
-- 🔭 I’m currently working on **C#,Backend,Angular**
+- 🔭 I’m currently working on **C#,Backend,Angular,Java**
 
-- 💬 Ask me about **.Net,Angular**
+- 💬 Ask me about **.Net,Angular,Java**
 
-- 📫 How to reach me **rakhikumari6602@gmail.com**
+- 📫 How to reach me **rakhikumari6602@gmail.com,rakhi.kumari.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
