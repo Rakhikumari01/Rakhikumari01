@@ -65,11 +65,3 @@
   <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="40" height="40"/>
 </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakhikumari01&show_icons=true&locale=en" alt="rakhikumari01" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakhikumari01&show_icons=true&locale=en&layout=compact" alt="rakhikumari01" />
-</p>
